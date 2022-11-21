@@ -1,2 +1,14 @@
+body{
+    background-color:lemonchiffon;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#projects{
+
+position:relative;
+right:35px;
+}
 
 /* Your CSS Code here. */
